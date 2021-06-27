@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hostdavies-12425
+- 👀 I’m interested in learning JVM and typescript
+- 🌱 I’m currently learning typescript, rust, java, kotlin, C#, C and C++
+- 📫 Add me on discord host#3782
